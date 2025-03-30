@@ -17,4 +17,4 @@ I'm Shashi Kumar, the creator of this Sorting Visualizer. I have a deep interest
 
 Feel free to reach out if you have any questions or suggestions for improvement.
 
-*[Shashi Kumar]*
+**Shashi Kumar**
